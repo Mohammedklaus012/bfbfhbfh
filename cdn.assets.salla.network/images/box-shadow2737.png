@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>NoSuchKey</Code>
+  <Message>The specified key does not exist.</Message>
+  <RequestId>6333056AF22B2D3036C508C4</RequestId>
+  <HostId>cdn.assets.salla.network</HostId>
+  <Key>images/box-shadow.png</Key>
+</Error>
